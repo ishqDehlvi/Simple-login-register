@@ -1,0 +1,8 @@
+.bg-parrot-img{
+  
+background-image: url("../images/parrot.jpg");
+background-size: 100%;
+height: 200px;
+text-shadow: 2px 2px 9px #000;
+
+}
